@@ -17,3 +17,12 @@
 
 ###### 1) Used mediapipe to get HandPose
 ###### 2) Used thresholding to get only hand skeletal structure 
+
+
+### Stock Market Prediction using Numerical and Textual Analysis
+
+###### Stock Data Analysis, Predicting Opening and closing price of stocks
+
+### Vehicle Plate Number Extraction from images
+
+###### Used OpenCV
