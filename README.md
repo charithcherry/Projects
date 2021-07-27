@@ -17,6 +17,8 @@
 
 ###### 1) Used mediapipe to get HandPose
 ###### 2) Used thresholding to get only hand skeletal structure 
+###### 2) Virtual Board for drawing- IN PROGRESS 
+
 
 
 ### Stock Market Prediction using Numerical and Textual Analysis
