@@ -24,8 +24,8 @@
 
 ### Stock Market Prediction using Numerical and Textual Analysis
 
-###### Stock Data Analysis, Predicting Opening and closing price of stocks
+###### 1) Stock Data Analysis, Predicting Opening and closing price of stocks
 
 ### Vehicle Plate Number Extraction from images
 
-###### Used OpenCV
+###### 1) used OpenCV to get Number - plate shape : 4 sided
