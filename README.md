@@ -12,15 +12,12 @@
 ###### 2) Live Image Capture : Getting one image from camera
 ###### 3) Attendance : Using face_recognition package to compare images and identify the image name.
 
-
 ### Virtual Drawing Board:
 
 ###### 1) Used mediapipe to get HandPose
 ###### 2) Used thresholding to get only hand skeletal structure 
 ###### 3) Virtual Board for drawing Phase 1 - DONE
 ###### 4) Virtual Board for drawing Phase 2 - IN PROGRESS 
-
-
 
 ### Stock Market Prediction using Numerical and Textual Analysis
 
