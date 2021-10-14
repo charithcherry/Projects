@@ -3,7 +3,7 @@
 ## Tools/IDE:
 ### Programming Language : Python
 ### IDE : Jupyter notebook
-
+### Import libraries : opencv , mediapipe, tensorflow
 ## Topics:
 
 ### Attendance via image recognition :
