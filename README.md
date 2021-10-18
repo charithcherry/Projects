@@ -22,3 +22,5 @@
 
 ### Vehicle Plate Number Extraction from images
 ###### 1) used OpenCV to get Number - plate shape : 4 sided
+###### 1) used OpenCV to get Number - plate shape : polysides 
+
